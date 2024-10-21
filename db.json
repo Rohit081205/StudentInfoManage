@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "password": "12345"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "password": "password123"
+    },
+    {
+      "id": "57dd",
+      "name": "Mugesh Kumar M",
+      "email": "727823tuad129@skct.edu.in",
+      "password": "fgstgw636"
+    },
+    {
+      "id": "7715",
+      "name": "ROHIT T J",
+      "email": "rohitjayaraj056@gmail.com",
+      "password": "MK123"
+    },
+    {
+      "id": "7caf",
+      "name": "Salman",
+      "email": "sk@gmail.com",
+      "password": "ther32"
+    }
+  ],
+  "students": []
+}
+
+
